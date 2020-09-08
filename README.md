@@ -1,2 +1,2 @@
 # Dice-roller-app
-Dice roller app for beginers
+Android Dice roller app for beginers
